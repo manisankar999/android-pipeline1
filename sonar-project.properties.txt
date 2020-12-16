@@ -1,0 +1,7 @@
+sonar.projectKey=android-pipeline 
+sonar.sources=app/src/main/java
+sonar.host.url=http://localhost:9000 
+sonar.login=b35e85a8dae516bf70d4f2c6b8aa58df77908cf0
+sonar.language=java
+sonar.sourceEncoding=UTF-8
+sonar.java.binaries=app/build
